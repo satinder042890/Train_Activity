@@ -1,0 +1,17 @@
+.jumbotron{
+    background: rgb(236, 125, 60);
+    padding:1%;
+    text-align: center;
+}
+.display-3{ 
+     font-weight: bold;
+}
+#logo{
+    height: 200px;
+    width:50%;
+}
+.card-header{
+    background: rgb(53, 53, 53);
+    color: white;
+    font-weight: bold;
+}
