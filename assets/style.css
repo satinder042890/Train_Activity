@@ -25,3 +25,7 @@ body{
 #formId{
     display: none;
 }
+tbody,
+form{
+    font-weight: bold;
+}
