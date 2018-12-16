@@ -1,5 +1,8 @@
+body{
+    background:url("http://www.technocrazed.com/wp-content/uploads/2015/12/black-wallpaper-to-set-as-background-33.jpg");
+}
 .jumbotron{
-    background: rgb(236, 125, 60);
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDSxJSYIjvyx8UDwz27eINqtoYHBMib8-vokQyAfTElC2O7GMpUg");
     padding:1%;
     text-align: center;
 }
@@ -11,7 +14,14 @@
     width:50%;
 }
 .card-header{
-    background: rgb(53, 53, 53);
-    color: white;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDSxJSYIjvyx8UDwz27eINqtoYHBMib8-vokQyAfTElC2O7GMpUg");
+    /* color: white; */
     font-weight: bold;
+    border:orange;
+}
+.display-5{ 
+    color:rgb(223, 111, 20);
+}
+#formId{
+    display: none;
 }
