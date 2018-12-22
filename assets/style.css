@@ -17,7 +17,7 @@ body{
     background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDSxJSYIjvyx8UDwz27eINqtoYHBMib8-vokQyAfTElC2O7GMpUg");
     /* color: white; */
     font-weight: bold;
-    border:orange;
+    /* border:orange; */
 }
 .display-5{ 
     color:rgb(223, 111, 20);
