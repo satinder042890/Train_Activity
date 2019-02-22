@@ -2,7 +2,6 @@
  This is a train schedule application that incorporates Firebase to host arrival and departure data. This website will provide up-to-date information about various trains, namely their arrival times and how many minutes remain until they arrive at their station.
  ` 
   https://satinder042890.github.io/Train_Activity/
-  
   `
 ### Application Link
 The link below will give you direct access to Train Activity web application using your web browser.
